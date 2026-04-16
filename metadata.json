@@ -1,0 +1,6 @@
+{
+  "name": "幸運抽獎轉盤",
+  "description": "一個功能齊全的抽獎網頁，支援手動新增、CSV 批量上傳、自動去重及動態轉盤抽獎。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
